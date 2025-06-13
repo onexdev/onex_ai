@@ -1,0 +1,8 @@
+{
+  "modules": [
+    "contract_parser",
+    "transaction_analyzer",
+    "ownership_tree_builder",
+    "visual_signature_detector"
+  ]
+}
