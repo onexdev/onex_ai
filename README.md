@@ -1,6 +1,6 @@
 # onex_ai
 Real‑time quantum‑accelerated detection of rug‑pull meme coins
-_Dibangun dengan Graph Neural Accelerator, Holographic Anomaly Detection, dan Zero‑Trust Audit infrastruktur—teknologi Web3 tahun 2050._
+_Dibangun dengan Graph Neural Accelerator, Holographic Anomaly Detection, dan Zero‑Trust Audit infrastruktur—teknologi Web3._
 onexdev
 ---
 🧬 Algoritme 
